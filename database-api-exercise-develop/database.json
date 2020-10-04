@@ -1,0 +1,30 @@
+{
+    "dev": {
+        "driver": "pg",
+        "user": "postgres",
+        "password": "raj@123",
+        "host": "localhost",
+        "database": "postgres",
+        "port": "5432"
+    },
+  
+    "test": {
+        "driver": "pg",
+        "user": "postgres",
+        "password": "raj@123",
+        "host": "localhost",
+        "database": "postgres",
+        "port": "5432"
+    },
+  
+    "prod": {
+        "driver": "pg",
+        "user": "postgres",
+        "password": "raj@123",
+        "host": "localhost",
+        "database": "postgres",
+        "port": "5432"
+    },
+    "sql-file" : true,
+    "other": "postgres://postgres:raj@123@localhost:5432/postgres"
+  }

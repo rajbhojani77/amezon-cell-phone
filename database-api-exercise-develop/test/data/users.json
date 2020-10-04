@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "username": "rajb",
+            "password": "",
+            "role_id": 2,
+            "createdat": "2020-02-17T13:06:25.854Z",
+            "inactive": false,
+            "updatedat": "2020-02-17T13:06:25.854Z"
+        },
+        {
+            "id": 11,
+            "username": "Seamus15",
+            "password": "ARoNjbIbc6wu3zR",
+            "role_id": 2,
+            "createdat": "2020-02-17T13:06:26.221Z",
+            "inactive": false,
+            "updatedat": "2020-02-17T13:06:26.221Z"
+        },
+        {
+            "id": 25,
+            "username": "John R. Risden",
+            "password": "",
+            "role_id": 2,
+            "createdat": "2020-02-17T13:06:26.321Z",
+            "inactive": false,
+            "updatedat": "2020-02-17T13:06:26.321Z"
+        },
+        {
+            "id": 26,
+            "username": "R-Dash3",
+            "password": "",
+            "role_id": 2,
+            "createdat": "2020-02-17T13:06:26.321Z",
+            "inactive": false,
+            "updatedat": "2020-02-17T13:06:26.321Z"
+        },
+        {
+            "id": 31,
+            "username": "kalani",
+            "password": "4b92c983-5186-11ea-b149-f9d37bea0c16",
+            "role_id": 2,
+            "createdat": "2020-02-17T13:06:26.322Z",
+            "inactive": false,
+            "updatedat": "2020-02-17T13:06:26.322Z"
+        },
+        {
+            "id": 32,
+            "username": "mayrf",
+            "password": "",
+            "role_id": 2,
+            "createdat": "2020-02-17T13:06:26.322Z",
+            "inactive": false,
+            "updatedat": "2020-02-17T13:06:26.322Z"
+        },
+        {
+            "id": 36,
+            "username": "Sirni",
+            "password": "4b92f091-5186-11ea-b149-f9d37bea0c16",
+            "role_id": 2,
+            "createdat": "2020-02-17T13:06:26.349Z",
+            "inactive": false,
+            "updatedat": "2020-02-17T13:06:26.349Z"
+        },
+        {
+            "id": 37,
+            "username": "PortlandHome",
+            "password": "4b92f093-5186-11ea-b149-f9d37bea0c16",
+            "role_id": 2,
+            "createdat": "2020-02-17T13:06:26.350Z",
+            "inactive": false,
+            "updatedat": "2020-02-17T13:06:26.350Z"
+        },
+        {
+            "id": 40,
+            "username": "Big Cadillac",
+            "password": "4b9317a1-5186-11ea-b149-f9d37bea0c16",
+            "role_id": 2,
+            "createdat": "2020-02-17T13:06:26.350Z",
+            "inactive": false,
+            "updatedat": "2020-02-17T13:06:26.350Z"
+        },
+        {
+            "id": 46,
+            "username": "NeuroSplicers",
+            "password": "",
+            "role_id": 2,
+            "createdat": "2020-02-17T13:06:26.355Z",
+            "inactive": false,
+            "updatedat": "2020-02-17T13:06:26.355Z"
+        }
+    ]
+}
